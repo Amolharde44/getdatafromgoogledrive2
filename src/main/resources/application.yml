@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: datafromGoogleDrive
+netty:
+  default:
+    allocator:
+      max-order: 3
